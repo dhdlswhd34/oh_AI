@@ -1,1 +1,1 @@
-# oh_AI
+# LSTM model for predict thrombectomy
